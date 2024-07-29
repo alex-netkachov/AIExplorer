@@ -14,4 +14,4 @@ It is a work in progress and more endpoints will be added in the future, conditi
 
 The current release 0.1.0 is a preview version and is not feature complete.
 
-![AIExplorer MainWindow](images/AIExplorer-MainWindow.png)
+![AIExplorer MainWindow](Images/AIExplorer-MainWindow.png)
